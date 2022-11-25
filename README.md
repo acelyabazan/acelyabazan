@@ -9,5 +9,4 @@
 <a href="https://www.instagram.com/acelyabazan/"><img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a href="https://www.youtube.com/@acelyabazan"><img alt="YOUTUBE" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a>
 
-<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=acelyabazan&theme=dark)
