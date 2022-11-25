@@ -6,3 +6,4 @@
 
 ## 💻 Tech I use
 ### - Python
+### - JavaScript
